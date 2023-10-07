@@ -1,0 +1,1 @@
+// sort the array and return (n-1)th element. 
